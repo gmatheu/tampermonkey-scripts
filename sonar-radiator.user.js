@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Removes menus and increses fonts for SonarQube dashboards
 // @author       Gonzalo Matheu <gonzalommj@gmail.com
-// @match        https://*sonar*/dashboard/index/*
+// @match        https://sonar/dashboard/index/*
 // @grant        none
 // ==/UserScript==
 
